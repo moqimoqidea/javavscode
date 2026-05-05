@@ -137,4 +137,3 @@
   "jdk.notebook.mime_type.not.found.cell.output": "MIMEタイプ: {mimeType}、コンテンツの長さ: {contentLength}",
   "jdk.notebook.cell.language.not.found": "{languageId}の実行はサポートされていません"
 }
-
